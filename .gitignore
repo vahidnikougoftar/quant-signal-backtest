@@ -14,7 +14,7 @@ env/
 
 # Generated outputs
 output/*.csv
-output/*.png
+
 
 # Local cache and notebooks
 .pytest_cache/
